@@ -1,2 +1,2 @@
 # computingII
-created for computing II
+created for GNSC 3301
